@@ -1,3 +1,4 @@
+//本文地址：http://zhupeixin.top/article/2018/01/equalobj
 var arrC = [].constructor;
 var isArr = function (arr) {
     return arr.constructor === arrC;
