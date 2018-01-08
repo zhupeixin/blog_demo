@@ -1,4 +1,4 @@
-//本文地址：http://zhupeixin.top/article/2018/01/equalobj
+//本文地址：http://zhupeixin.top/article/2018/01/equal-json
 var objC = {}.constructor;
 function isObj(obj) {
     return !!(obj && obj.constructor === objC);
